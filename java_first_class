@@ -1,0 +1,32 @@
+Java Programming :
+
+JDK -  JAVA development Kit (C:\Program Files\Java\jdk) --> command --> javac -->   javac ClassName.java --> to generate bytecode (binary codes 0's and 1's) ClassName.java
+	  file --> ClassName.class 
+
+JRE -  Java Runtime Env  --> command --> java -->  java ClassName  --> converts bytecode to human undestandable output -> prints output
+
+JIT -> Just In time -> increase the performace of execution by considering only the latest changes to the program(bytecode)
+
+IDE -  cmd, notepad, notepad++, Jcreator, eclipse, IntelliJ,
+
+Classpath - 
+
+JAVA_HOME = C:\Program Files\Java\jdk
+
+PATH = %JAVA_HOME%\bin
+--------------------------------------------------------------------------------------------
+
+access specifiers --> private, public, protected, default
+
+
+
+s1 - o1  - pri1  - within the house and only by family members 
+
+s1  - pub1 - public can be accessed from any village in the world using any family member
+
+s1 - pro1  - within same village anyone can access ->  sister married and stayed in husband village --> s3 extended s1 - only s3 can see the protected items
+
+s1 - def1 -  anyone from the same village can access the default iteams 
+
+
+s2 - o1  

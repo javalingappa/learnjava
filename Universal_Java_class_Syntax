@@ -1,0 +1,34 @@
+<<COPY_RIGHT>> // optional
+<<Packagae_name>> // optional
+<<imports>> // optional
+//author details optional 
+<<access_specifiers>> <<static_optional>> <<final_optional>> <<class|interface>> <<ClassName>> <<extends_optional>> <<ClassNameTwo>> <<implements_optional>> <<InterfaceName>> {
+
+<<access_specifiers>> <<static_optional>>  <<data_type>> <<variableName>>; //optional to initialize
+
+<<access_specifiers>> <<static_optional>> <<final_optional>> <<data_type>> <<variableName>> = <<initial_value>>; //optional to initialize like constant 
+
+
+<<access_specifiers>> <<ClassName>>(){
+
+}
+
+<<access_specifiers>> <<ClassName>>(<<data_type>> <<param>>){
+
+}
+
+//method
+<<access_specifiers>> <<static_optional>> <<final_optional>> <<return_type>>  <<methodNmae>>(){
+	<<data_type>> <<variableName>> = <<must_initialize>>;
+	<<return_optional>>;
+
+}
+
+//parameterised method
+<<access_specifiers>> <<static_optional>> <<final_optional>> <<return_type>>  <<methodNmae>>(<<data_type>> param>>){
+
+   <<return_optional>>;
+}
+
+
+}
