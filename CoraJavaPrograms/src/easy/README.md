@@ -5,3 +5,4 @@
     * Using inbuilt reverse function of StringBuilder
     * Using toCharArray() Iterative Way
     * Using Recursive way
+- [x] Find Kth largest or smallest elements in an array
