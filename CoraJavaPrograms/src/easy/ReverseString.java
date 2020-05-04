@@ -1,6 +1,6 @@
 package easy;
 
-import java.util.Scanner;
+//import java.util.Scanner;
 
 /**
  * @author https://github.com/javalingappa
@@ -11,9 +11,9 @@ public class ReverseString {
 	public static void main(String[] args) {
 		ReverseString reverseString = new ReverseString();
 		String input = "india";
-		Scanner sc = new Scanner(System.in);
-		System.out.println("Enter Input String \n");
-		input = sc.next();
+		//Scanner sc = new Scanner(System.in);
+		//System.out.println("Enter Input String \n");
+		//input = sc.next();
 		System.out.println("Input: " + input);
 		System.out.println("Way-1: Reverse String using inbuilt method of StringBuilder reverse");
 		System.out.println("Output: " + reverseString.reverseUsingStringInbuiltFunc(input));
