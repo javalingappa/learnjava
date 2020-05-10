@@ -8,7 +8,7 @@
 * ##### public 
 	<code>In a Java project, by creating a object, the public variables/methods  we can be accessed <b>in any package and in any class</b> </code>
 * ##### protected 
-	<code>In a Java project, by creating a object, the protected variables/methods we can be accessed <b>in same package</b> and the protected variables/methods can be accessed in any other package  <b>through inheritance by subclass object only</b> </code>
+	<code>In a Java project, by creating a object, the protected variables/methods we can be accessed <b>in same package</b> and the protected variables/methods can be accessed in any other package  <b>through inheritance, accessing them by subclass object only</b> </code>
 * ##### default 
 	<code> In a Java project, by creating a object, the default  variables/methods we can be accessed <b>in same package only </b> </code>
 * ##### private 
