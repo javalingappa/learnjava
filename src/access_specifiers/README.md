@@ -1,7 +1,7 @@
 # Java Programs :  Access Specifiers and Access Modifiers
 
 ## Access Specifier:- 
-#### ```  This can be understood as the access you provide to your code in Java whether other classes can access your code or not.```
+#### <code>This can be understood as the access you provide to your code in Java whether  <br> other classes can access your code or not.</code>
 
 ### E.g. public, private, protected and default.
 
@@ -15,7 +15,7 @@
 	<code>In a Java project, by creating a object, the private variables/methods we can be accessed <b> in same class only </b> </code>
 
 ## Access Modifier:- 
-#### ````  Java provides both Access Specifier and Access Modifiers for creating access to your Java code for other classes. Here modifier is also used to do the same task but there are limitations. ````
+####  <code>Java provides both Access Specifier and Access Modifiers for creating access to your Java code for other classes. <br>  Here modifier is also used to do the same task but there are limitations. </code>
 
 * ### Class Modifier:
 	*  **abstract:** This defines the restriction such that objects cannot be created.
