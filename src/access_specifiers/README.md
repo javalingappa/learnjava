@@ -6,7 +6,7 @@
 ### E.g. public, private, protected and default.
 
 * ##### public 
-	<code>In a Java project, by creating a object, the public variables/methods  we can access <b>in any package and in any class</b> </code>
+	<code>In a Java project, by creating a object, the public variables/methods  we can be accessed <b>in any package and in any class</b> </code>
 * ##### protected 
 	<code>In a Java project, by creating a object, the protected variables/methods we can be accessed <b>in same package</b> and the protected variables/methods can be accessed in any other package  <b>through inheritance by subclass object only</b> </code>
 * ##### default 
