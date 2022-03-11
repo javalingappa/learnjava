@@ -65,30 +65,30 @@
  
 # Software Installation Links
 
-JDK 1.8 installation
+### JDK 1.8 installation
 
 https://www.oracle.com/java/technologies/downloads/#java8-windows 
 https://www.oracle.com/java/technologies/downloads/#license-lightbox
 
-Eclipse
+### Eclipse
 
 https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2021-12/R/eclipse-inst-jre-win64.exe
 
-IntelliJ 
+### IntelliJ 
 
 https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows&code=IIC
 
-Maven
+### Maven
 
 https://dlcdn.apache.org/maven/maven-3/3.8.4/binaries/apache-maven-3.8.4-bin.zip
 
-Tomcat
+### Tomcat
 
 https://dlcdn.apache.org/tomcat/tomcat-10/v10.0.17/bin/apache-tomcat-10.0.17-windows-x64.zip
 
 https://dlcdn.apache.org/tomcat/tomcat-10/v10.0.17/bin/apache-tomcat-10.0.17.exe
 
-MySQL
+### MySQL
 
 https://dev.mysql.com/downloads/windows/installer/8.0.html
 https://dev.mysql.com/downloads/file/?id=510039
